@@ -1,0 +1,16 @@
+C:\Users\Данил\Desktop\task 11\bin\Debug\net5.0\task 11.exe
+C:\Users\Данил\Desktop\task 11\bin\Debug\net5.0\task 11.deps.json
+C:\Users\Данил\Desktop\task 11\bin\Debug\net5.0\task 11.runtimeconfig.json
+C:\Users\Данил\Desktop\task 11\bin\Debug\net5.0\task 11.runtimeconfig.dev.json
+C:\Users\Данил\Desktop\task 11\bin\Debug\net5.0\task 11.dll
+C:\Users\Данил\Desktop\task 11\bin\Debug\net5.0\ref\task 11.dll
+C:\Users\Данил\Desktop\task 11\bin\Debug\net5.0\task 11.pdb
+C:\Users\Данил\Desktop\task 11\obj\Debug\net5.0\task 11.csproj.AssemblyReference.cache
+C:\Users\Данил\Desktop\task 11\obj\Debug\net5.0\task 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данил\Desktop\task 11\obj\Debug\net5.0\task 11.AssemblyInfoInputs.cache
+C:\Users\Данил\Desktop\task 11\obj\Debug\net5.0\task 11.AssemblyInfo.cs
+C:\Users\Данил\Desktop\task 11\obj\Debug\net5.0\task 11.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\task 11\obj\Debug\net5.0\task 11.dll
+C:\Users\Данил\Desktop\task 11\obj\Debug\net5.0\ref\task 11.dll
+C:\Users\Данил\Desktop\task 11\obj\Debug\net5.0\task 11.pdb
+C:\Users\Данил\Desktop\task 11\obj\Debug\net5.0\task 11.genruntimeconfig.cache
